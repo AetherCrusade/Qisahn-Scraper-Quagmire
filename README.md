@@ -8,7 +8,7 @@ BeautifulSoup will act as a Mozilla Browser to access the website information.
 * Python 3 (Who the hell doesn't have python these days)
 
 ## Purpose
-I wanted to learn Selenium and BeautifulSoup.  
+I wanted to learn the BeautifulSoup library.  
 Also, I thought it would be pretty cool.
 
 ## Licensing
