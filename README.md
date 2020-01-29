@@ -9,7 +9,10 @@ BeautifulSoup will act as a Mozilla Browser to access the website information.
 ### Prerequisites:
 * Python 3 (Who the hell doesn't have python these days)
 
-## Purpose
+### How to use:
+Simply run the QisahnWebScraper_v2.py file, kick back and wait as the script does its magic.
+
+### Purpose:
 I wanted to learn the BeautifulSoup library.  
 Also, I thought it would be pretty cool.
 
