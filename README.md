@@ -1,5 +1,6 @@
 # Qisahn-Scraper-Quagmire
-My first attempt at using BeautifulSoup. Scrapes Qisahn.com for Nintendo Switch Games.
+My first attempt at using BeautifulSoup.  
+Scrapes Qisahn.com for Nintendo Switch Games.  
 Written in Python 3, outputs the data into a CSV file.  
 BeautifulSoup will act as a Mozilla Browser to access the website information.
 
