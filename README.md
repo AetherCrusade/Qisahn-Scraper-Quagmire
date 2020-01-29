@@ -1,10 +1,10 @@
 # Qisahn-Scraper-Quagmire
 My first attempt at using BeautifulSoup.  
 Scrapes Qisahn.com for Nintendo Switch Games.  
+Yes, I am aware than my programming style is very unconventional, but hey that's what makes me unique.  
   
 Written in Python 3, outputs the data into a CSV file.  
-BeautifulSoup will act as a Mozilla Browser to access the website information.  
-Yes, I am aware than my programming style is very unconventional, but hey that's what makes me unique.
+BeautifulSoup will act as a Mozilla Browser to access the website information.
 
 ### Prerequisites:
 * Python 3 (Who the hell doesn't have python these days)
